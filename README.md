@@ -45,9 +45,8 @@ Install nginx using yum module and configuration is copied using template to /et
      service:
              name: nginx
              state: restarted
-
-## Template - nginx_conf.tmpl
 ````
+## Template - nginx_conf.tmpl
 ```
 server {
     listen         80 default_server;
