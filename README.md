@@ -59,5 +59,5 @@ server {
 
 
 ### NGINX Official Documentation.
- [NGINX] (https://www.linode.com/docs/web-servers/nginx/nginx-installation-and-basic-setup/)
+ [NGINX](https://www.linode.com/docs/web-servers/nginx/nginx-installation-and-basic-setup/)
 
